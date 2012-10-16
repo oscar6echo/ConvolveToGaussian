@@ -1,0 +1,1 @@
+This repo contains the mathematica notebook used to used tp create the pictures used in blog http://oscar6echo.blogspot.fr/ in the 'Convole n Square Pulses to Gaussian' post.
