@@ -1,1 +1,1 @@
-This repo contains the mathematica notebook used to used tp create the pictures used in blog http://oscar6echo.blogspot.fr/ in the 'Convole n Square Pulses to Gaussian' post.
+This repo contains the pictures and the mathematica notebook used to used to create them, relative to the 'Convole n Square Pulses to Gaussian' post in blog http://oscar6echo.blogspot.fr/.
